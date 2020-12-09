@@ -1,4 +1,4 @@
-# ![banner](https://github.com/anpaopao/cyberpunk/blob/master/images/icon.png "icon") cyberpunk
+# ![banner](https://github.com/anpaopao/cyberpunk/blob/master/images/icon.png "icon")
 
 Some nice bold retrowave colours to personlise your Chrome browser
 
